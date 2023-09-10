@@ -1,0 +1,361 @@
+[
+    {
+      "id": "1",
+      "champId": "1",
+      "name": "Aatrox",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Aatrox_1.jpg?alt=media&token=4085233a-cae0-483e-9dfa-b50e208f1e6a",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Aatrox_2.jpg?alt=media&token=2650de12-0503-40eb-ab53-db0f208f2cee"
+    },
+    {
+      "id": "2",
+      "champId": "2",
+      "name": "Ahri",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Ahri_5.jpg?alt=media&token=2ddb7cc1-3f6c-4116-8543-4ee20d1aac7c",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Ahri_7.jpg?alt=media&token=5597314f-0c90-445c-a438-c81e1aedc47b"
+    },
+    {
+      "id": "3",
+      "champId": "3",
+      "name": "Akali",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Akali_1.jpg?alt=media&token=27510322-af7e-474b-bc4f-85ca7b04014a",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Akali_13.jpg?alt=media&token=a4bc0ac1-6fb0-4344-921b-f067d7e15198"
+    },
+    {
+      "id": "4",
+      "champId": "4",
+      "name": "Alistar",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Alistar_10.jpg?alt=media&token=61d6d2ff-0a5a-47d3-ab5c-5e177ab7be73",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Alistar_19.jpg?alt=media&token=1e27037a-cefe-45cf-9147-4e2c13bc82a5"
+    },
+    {
+      "id": "5",
+      "champId": "5",
+      "name": "Amumu",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Amumu_17.jpg?alt=media&token=f3d7f772-034f-4989-bb7c-8f471ff31356",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Amumu_23.jpg?alt=media&token=d8989601-f20a-4cf0-9933-573a9731fb65"
+    },
+    {
+      "id": "6",
+      "champId": "6",
+      "name": "Anivia",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Anivia_5.jpg?alt=media&token=c581b567-a2f9-404d-b811-e9f11801bb1f",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Anivia_7.jpg?alt=media&token=2c2f52f6-941e-4223-b802-b644cbadf284"
+    },
+    {
+      "id": "7",
+      "champId": "7",
+      "name": "Annie",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Annie_10.jpg?alt=media&token=414e19ab-7a67-47cb-9b05-ff2f2ea90180",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Annie_12.jpg?alt=media&token=3f0e6255-07f8-4f5f-9ce4-27a736f28f5e"
+    },
+    {
+      "id": "8",
+      "champId": "8",
+      "name": "Aphelios",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Aphelios_1.jpg?alt=media&token=c0df3d08-c966-49cc-802c-55dea8ae3e24",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Aphelios_2.jpg?alt=media&token=66a18e5a-95d0-44bb-bbae-52aca8bcf916"
+    },
+    {
+      "id": "9",
+      "champId": "9",
+      "name": "Ashe",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Ashe_8.jpg?alt=media&token=bbf554a7-24d1-409f-a40f-f0306eef6f42",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Ashe_17.jpg?alt=media&token=ba0e9cf6-832c-4db1-af7c-736307861ee4"
+    },
+    {
+      "id": "10",
+      "champId": "10",
+      "name": "Aurelion Sol",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/AurelionSol_1.jpg?alt=media&token=d819da10-ffa4-4c6e-a712-d1d30c69d331",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/AurelionSol_2.jpg?alt=media&token=be05e14d-269c-431e-969f-8d13e400d277"
+    },
+    {
+      "id": "11",
+      "champId": "11",
+      "name": "Azir",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Azir_1.jpg?alt=media&token=fca05886-6d42-4f69-aebf-64260d42e392",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Azir_4.jpg?alt=media&token=4ba49ccf-eca2-487f-9ecc-a0ac2fdba004"
+    },
+    {
+      "id": "12",
+      "champId": "12",
+      "name": "Bard",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Bard_5.jpg?alt=media&token=2a58840a-ee83-47d6-b2ed-62dc8984c603",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Bard_6.jpg?alt=media&token=7113a3a2-e43e-4fb0-8120-d43db08be725"
+    },
+    {
+      "id": "13",
+      "champId": "13",
+      "name": "Blitzcrank",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Blitzcrank_6.jpg?alt=media&token=a40bf048-fab3-436b-aecc-fb0ac44e4aa1",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Blitzcrank_20.jpg?alt=media&token=710325df-34c0-4d3a-9b7c-d1b04ee2ccc1"
+    },
+    {
+      "id": "14",
+      "champId": "14",
+      "name": "Brand",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Brand_4.jpg?alt=media&token=04d77b1a-280f-432a-85e0-f08f9f019575",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Brand_5.jpg?alt=media&token=66d58a0c-4163-427f-b5dc-2f9d5f3e1f7f"
+    },
+    {
+      "id": "15",
+      "champId": "15",
+      "name": "Braum",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Braum_10.jpg?alt=media&token=792aa18a-dcaa-444f-b01d-1a4e61bf52db",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Braum_11.jpg?alt=media&token=cf0b16a3-cc1e-4e8a-8a2e-fbfe4474a63f"
+    },
+    {
+      "id": "16",
+      "champId": "16",
+      "name": "Caitlyn",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Caitlyn_20.jpg?alt=media&token=3037a06d-25af-4be1-b801-cb07655268b4",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Caitlyn_11.jpg?alt=media&token=34366f45-4936-48c8-9063-848b6fd11b32"
+    },
+    {
+      "id": "17",
+      "champId": "17",
+      "name": "Camille",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Camille_2.jpg?alt=media&token=34f0baa4-2df4-4f3e-abb7-9d438c7fb1d8",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Camille_10.jpg?alt=media&token=05ffaf3e-a047-4f91-abb4-24012ca97d3e"
+    },
+    {
+      "id": "18",
+      "champId": "18",
+      "name": "Cassiopeia",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Cassiopeia_4.jpg?alt=media&token=7e796569-c29c-431c-be47-6159f443aac0",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Cassiopeia_8.jpg?alt=media&token=f37226c8-887c-429d-9316-d886e8e11883"
+    },
+    {
+      "id": "19",
+      "champId": "19",
+      "name": "Cho'Gath",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Chogath_6.jpg?alt=media&token=7fa7f657-5c60-4ee5-8649-06d37361f0c4",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Chogath_5.jpg?alt=media&token=a7faaac4-423e-4f52-9097-7ffa5ebcfd19"
+    },
+    {
+      "id": "20",
+      "champId": "20",
+      "name": "Corki",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Corki_8.jpg?alt=media&token=b28aa134-99ef-413e-b4f0-fd85938285c6",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Corki_18.jpg?alt=media&token=93c2989a-de47-45a6-9517-e2af84af9f0d"
+    },
+    {
+      "id": "21",
+      "champId": "21",
+      "name": "Darius",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Darius_14.jpg?alt=media&token=48767979-5bf7-459e-b1c4-6df60cb0a51d",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Darius_15.jpg?alt=media&token=7833f4b3-f4be-471b-8f80-80eb22887e44"
+    },
+    {
+      "id": "22",
+      "champId": "22",
+      "name": "Diana",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Diana_12.jpg?alt=media&token=9ca2bc64-1c06-432e-87fa-a89bf317596a",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Diana_18.jpg?alt=media&token=bb39bdd1-3912-4b88-ab46-5f262fd2d697"
+    },
+    {
+      "id": "23",
+      "champId": "23",
+      "name": "Draven",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Diana_12.jpg?alt=media&token=9ca2bc64-1c06-432e-87fa-a89bf317596a",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Diana_18.jpg?alt=media&token=bb39bdd1-3912-4b88-ab46-5f262fd2d697"
+    },
+    {
+      "id": "24",
+      "champId": "24",
+      "name": "Dr. Mundo",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/DrMundo_9.jpg?alt=media&token=b3b04ccc-bfa0-424e-85de-d7d6ef40e591",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/DrMundo_10.jpg?alt=media&token=6f5154cb-1e99-4bbe-bf78-9729ee7201d5"
+    },
+    {
+      "id": "25",
+      "champId": "25",
+      "name": "Ekko",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Ekko_19.jpg?alt=media&token=4223b120-2b13-4f6f-9131-fbda4a74102e",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Ekko_12.jpg?alt=media&token=5d1e8fc2-9e82-4825-be07-bc7ac4f856c4"
+    },
+    {
+      "id": "26",
+      "champId": "26",
+      "name": "Elise",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Elise_3.jpg?alt=media&token=b4348b37-8a2a-4fda-a342-a7fc495d1f7a",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Elise_5.jpg?alt=media&token=d890ba8a-a3f8-4d47-8c2b-d988a1b3b94b"
+    },
+    {
+      "id": "27",
+      "champId": "27",
+      "name": "Evelynn",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Evelynn_7.jpg?alt=media&token=fbc5a3b9-6f85-4808-857a-45c2ef583f67",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Evelynn_8.jpg?alt=media&token=80f69649-2939-44d9-b59a-5683be0d88e8"
+    },
+    {
+      "id": "28",
+      "champId": "28",
+      "name": "Ezreal",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Ezreal_9.jpg?alt=media&token=8281e6ae-e77e-4db5-9bcc-58fb32f4b0b5",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Ezreal_21.jpg?alt=media&token=5f0d493e-0f6a-4cf7-a355-87aa50d12f37"
+    },
+    {
+      "id": "29",
+      "champId": "29",
+      "name": "Fiddlesticks",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/FiddleSticks_8.jpg?alt=media&token=b1783afc-e4d1-4334-becf-6931cd611e0e",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/FiddleSticks_9.jpg?alt=media&token=f77c9443-aada-495f-8fd9-2e262f0375d3"
+    },
+    {
+      "id": "30",
+      "champId": "30",
+      "name": "Fiora",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Fiora_3.jpg?alt=media&token=b3467c6a-05b8-4d18-b928-b62883288e39",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Fiora_22.jpg?alt=media&token=84d18cf3-7259-44c9-8b1b-d6306bac0952"
+    },
+    {
+      "id": "31",
+      "champId": "31",
+      "name": "Fizz",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Fizz_14.jpg?alt=media&token=65fa4f0f-02de-44e1-a061-1e0f2b987753",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Fizz_15.jpg?alt=media&token=084161ee-989b-4695-80ae-b939c8454f56"
+    },
+    {
+      "id": "32",
+      "champId": "32",
+      "name": "Galio",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Galio_13.jpg?alt=media&token=3f04d991-438c-4c36-9495-419e0ee5099e",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Galio_6.jpg?alt=media&token=163e3eb8-7c83-4033-97dd-29799f71247e"
+    },
+    {
+      "id": "33",
+      "champId": "33",
+      "name": "Gangplank",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Gangplank_4.jpg?alt=media&token=2201daef-9bb4-4ff6-a42b-4252e0d4f889",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Gangplank_8.jpg?alt=media&token=76e1d034-aece-4cfc-b146-1356eafbe84f"
+    },
+    {
+      "id": "34",
+      "champId": "34",
+      "name": "Garen",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Garen_11.jpg?alt=media&token=bc0f99ad-0823-4767-b4b4-eff3a29fc633",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Garen_22.jpg?alt=media&token=cf30e604-cfda-4445-8c55-d2a9a00e11a6"
+    },
+    {
+      "id": "35",
+      "champId": "35",
+      "name": "Gnar",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Gnar_13.jpg?alt=media&token=890dd394-3ccb-40e3-ba93-2b495931ee2d",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Gnar_14.jpg?alt=media&token=661292b5-3c7c-42fe-adc7-8eee3f1f623b"
+    },
+    {
+      "id": "36",
+      "champId": "36",
+      "name": "Gragas",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Gragas_9.jpg?alt=media&token=f0aa242b-3e9a-483c-8dad-a54beda8c309",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Gragas_10.jpg?alt=media&token=c0452fa4-9941-4de7-bc83-e5a07e1368ba"
+    },
+    {
+      "id": "37",
+      "champId": "37",
+      "name": "Graves",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Graves_14.jpg?alt=media&token=e55a65d1-98a8-449e-b665-c45ecbb55851",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Graves_18.jpg?alt=media&token=60faec42-1684-4590-a4b6-c52007c2bcbb"
+    },
+    {
+      "id": "38",
+      "champId": "38",
+      "name": "Hecarim",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Hecarim_7.jpg?alt=media&token=b8677187-061e-47ba-bdaf-08a32223141d",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Hecarim_8.jpg?alt=media&token=b81bcd8a-c5ee-4325-9d41-b1d63e297499"
+    },
+    {
+      "id": "39",
+      "champId": "39",
+      "name": "Heimerdinger",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Heimerdinger_5.jpg?alt=media&token=2271b07b-1dea-48c6-b8fd-b9042ab88b36",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Heimerdinger_6.jpg?alt=media&token=b2727aac-5f3f-495b-9341-9ea72e66a399"
+    },
+    {
+      "id": "40",
+      "champId": "40",
+      "name": "Illaoi",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Illaoi_1.jpg?alt=media&token=7ed713e1-7346-4aa1-8d31-e92d0b23089b",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Illaoi_2.jpg?alt=media&token=19e9005e-49e5-4e97-875c-64b0e85128c5"
+    },
+    {
+      "id": "41",
+      "champId": "41",
+      "name": "Irelia",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Irelia_16.jpg?alt=media&token=dde140b3-95a2-4ef3-9c52-c766a1483512",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Irelia_17.jpg?alt=media&token=2197eced-f240-4201-9a10-494960b3a96c"
+    },
+    {
+      "id": "42",
+      "champId": "42",
+      "name": "Ivern",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Ivern_1.jpg?alt=media&token=a1662ff9-5729-4935-bb14-7f6fed562b8a",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Ivern_2.jpg?alt=media&token=b50a6ab0-6909-4544-a7c5-735b8b61aea7"
+    },
+    {
+      "id": "43",
+      "champId": "43",
+      "name": "Janna",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Janna_13.jpg?alt=media&token=7710091f-f1b2-4def-81ab-1505fe80a85e",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Janna_20.jpg?alt=media&token=f06ab8f3-7ad4-4905-b9bc-65f7824f883a"
+    },
+    {
+      "id": "44",
+      "champId": "44",
+      "name": "Jarvan IV",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/JarvanIV_7.jpg?alt=media&token=bdcb2097-5cc0-4488-9c7d-a24ac9eb9c5f",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/JarvanIV_9.jpg?alt=media&token=bcbfc8f0-d8ec-44f0-ac1f-9635fb5ff9d4"
+    },
+    {
+      "id": "45",
+      "champId": "45",
+      "name": "Jax",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Jax_12.jpg?alt=media&token=4739f717-92ce-4f5c-bded-5b78a629125c",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Jax_14.jpg?alt=media&token=32b92900-237a-4680-8402-5526a71006ea"
+    },
+    {
+      "id": "46",
+      "champId": "46",
+      "name": "Jayce",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Jayce_1.jpg?alt=media&token=c8e4db5a-8b66-4c64-acae-e23bf7255113",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Jayce_4.jpg?alt=media&token=312e71ea-47ad-4e33-8b93-e91e7cdbccb3"
+    },
+    {
+      "id": "47",
+      "champId": "47",
+      "name": "Jhin",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Jhin_4.jpg?alt=media&token=048bbb3f-a7e4-4722-95bf-719af20a3901",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Jhin_5.jpg?alt=media&token=4d4ddb7f-ead1-4534-a9fd-8da7f6afc6d8"
+    },
+    {
+      "id": "48",
+      "champId": "48",
+      "name": "Jinx",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Jinx_12.jpg?alt=media&token=01ae21b0-6a7e-4184-b3e2-cc66ce36f605",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Jinx_13.jpg?alt=media&token=55eab567-7b2b-44cc-93e2-ce91a14ef2e7"
+    },
+    {
+      "id": "49",
+      "champId": "49",
+      "name": "Kai'Sa",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Kaisa_1.jpg?alt=media&token=d45febd5-9f04-436a-a04c-8a698c4b36eb",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Kaisa_17.jpg?alt=media&token=4cd52ada-ff65-43ce-9756-64e49f233d5d"
+    },
+    {
+      "id": "50",
+      "champId": "50",
+      "name": "Kalista",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Kalista_1.jpg?alt=media&token=cd5f54e1-e981-4fce-b165-b752e4780569",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Kalista_2.jpg?alt=media&token=b4688984-6e81-4d09-a740-6c4b3f962758"
+    },
+    {
+      "id": "51",
+      "champId": "51",
+      "name": "Karma",
+      "skin1": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Karma_7.jpg?alt=media&token=9f61a5d0-1c1e-465b-b9a6-8857f412cbe0",
+      "skin2": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Karma_19.jpg?alt=media&token=dd89aaa6-b80b-453a-a330-6ce6e00e2fcf"
+    }
+
+
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "name": "Tank",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Icons%2F662.png?alt=media&token=baeebbba-b8b6-453c-a5b7-bf202c721a4c"
+    },
+    {
+        "id": "2",
+        "name": "Luchador",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Icons%2F658.png?alt=media&token=7776b45a-61c5-488c-8094-3e8d367ae8d2"
+    },
+    {
+        "id": "3",
+        "name": "Mago",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Icons%2F659.png?alt=media&token=af8d5363-d276-4429-b44e-13a91d66a94f"
+    },
+    {
+        "id": "4",
+        "name": "Soporte",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Icons%2F661.png?alt=media&token=36c38ff4-48de-4719-8a2f-3008cba779f6"
+    },
+    {
+        "id": "5",
+        "name": "Tirador",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Icons%2F660.png?alt=media&token=bcd46ee6-81ce-4e1c-905c-e7fd3bb6fc0d"
+    },
+    {
+        "id": "6",
+        "name": "Asesino",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/Icons%2F657.png?alt=media&token=204118de-22cd-4bf0-b536-f7eb6824e36c"
+    }
+]

@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-image: url(https://images.contentstack.io/v3/assets/blt731acb42bb3d1659/blt309e89577418db01/5ea169bb3e818760fab3191f/LOL_PROMOART_13.jpg);
+  filter: brightness(0.5); 
+  z-index: -1;
+  /* Ajusta el valor entre 0 y 1 para cambiar el nivel de brillo */
+}
+
+@font-face {
+  font-family: 'BeaufortforLOL-BoldItalic' ;
+  src: url('./fuentes/BeaufortforLOL-BoldItalic.otf') format('truetype');
+}
+@font-face {
+  font-family: 'Spiegel-BoldItalic' ;
+  src: url('./fuentes/Spiegel-TTF/Spiegel_TT_Bold_Italic.ttf') format('truetype');
+}

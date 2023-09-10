@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Top",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/IconPosi%2FIcontop.png?alt=media&token=1bff2276-2a50-4ebc-9232-a9a386e47494"
+    },
+    {
+        "id": "2",
+        "name": "Jungla",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/IconPosi%2FIconjungla.png?alt=media&token=20663c80-ceb6-4ef7-a693-dce371e1406f"
+    },
+    {
+        "id": "3",
+        "name": "Mid",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/IconPosi%2FIconmid.png?alt=media&token=9bf832e2-4fdf-4469-80df-979bd0505c52"
+    },
+    {
+        "id": "4",
+        "name": "Bot",
+        "icon": "https://firebasestorage.googleapis.com/v0/b/api-parker.appspot.com/o/IconPosi%2FIconbot.png?alt=media&token=6e17ae06-1094-4314-8ea7-6f7d5d70429e"
+    }
+]

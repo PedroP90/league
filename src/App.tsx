@@ -1,25 +1,49 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import { Route, Routes } from 'react-router-dom';
+import { Header } from './componentes/Header/Header';
+import { routes } from './componentes/commons/route';
+import { Main } from './componentes/Main/Main';
+import { rutas } from './componentes/commons/route2';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Header/>
+      <Routes>
+        <Route path='/' element= { <Main/>}>
+          {
+            routes.map( ({path,name, component:Component }) => (
+              <Route
+              key={path}
+              path={path}
+              element={<Component/>}
+              >
+              {name}
+              </Route>
+                
+            ))
+          }
+        </Route>
+      </Routes>
+      <Routes>
+        <Route path='/' element= { <Main/>}>
+          {
+            rutas.map( ({path,name, component:Component }) => (
+              <Route
+              key={path}
+              path={path}
+              element={<Component/>}
+              >
+              {name}
+              </Route>
+                
+            ))
+          }
+        </Route>
+      </Routes>
+    </>
   );
 }
 
