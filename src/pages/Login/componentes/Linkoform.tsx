@@ -1,8 +1,9 @@
-import { Button, Card, CardActions, CardContent, CardHeader, Grid, TextField, Typography, styled } from '@mui/material'
+import { Button, Card, CardActions, CardContent, CardHeader, Grid, TextField, styled } from '@mui/material'
 import React, {useEffect, useState} from 'react'
 import { addCategoria, getCategorias } from '../../../firebase/FBcategoria';
 import ICategoria from '../../../firebase/config/interface/ICategoria';
-// import { useForm } from 'react-hook-form';
+import { useForm } from 'react-hook-form';
+
 
 const CssTextField = styled(TextField)({
   //cambia el foco, es decir el nombre que sale arriba al pinchar
@@ -53,7 +54,7 @@ export const Linkoform = () => {
          }, [])
      
        //register: para introducir los nuevos valores, handleSubmit: manejador de los datos enviados, watch: observar los formularios,formState: comprueba errores
-        //  const { register, handleSubmit} = useForm<ICategoria>();
+         const { register, handleSubmit} = useForm<ICategoria>();
      
        //dataCategoria aquí puede llevar el nombre que queramos, hace referencia a los datos de la coleccion
          const onAddCategoria = async ( dataCategoria:ICategoria) => {
