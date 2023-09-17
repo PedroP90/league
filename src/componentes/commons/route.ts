@@ -13,7 +13,7 @@ interface Route {
 
 export const routes: Route[] = [
     {
-        path: '/home',
+        path: '/',
         component: HomePage,
         name: 'Home'
     },

@@ -2,6 +2,7 @@ import { Box, Card, CardContent, CardHeader, Divider, Grid, TextField, ThemeProv
 import React, { ChangeEvent, useEffect, useState } from 'react'
 import ICategoria from '../../firebase/config/interface/ICategoria';
 import { getCategorias } from '../../firebase/FBcategoria';
+import { Homecards } from './Cards/Homecards';
 
 
 const theme = createTheme();
@@ -143,6 +144,7 @@ export const HomePage = () => {
              </Card>
             </Grid>  
           </Grid>
+          {/* <Homecards/> */}
     </>
   )
 }
