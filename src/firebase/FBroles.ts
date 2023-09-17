@@ -1,13 +1,10 @@
 import { IRoles } from "./config/interface/IRoles";
 import roles from './config/data/roles.json'
-import React from 'react'
 import { nanoid } from 'nanoid'
 import { firebaseConfig } from './config/firebaseConfig'
-import { useFirestore } from 'reactfire'
 import { initializeApp } from 'firebase/app'
 import { 
-    getFirestore, collection, getDocs,
-    addDoc, doc, getDoc, query, where, setDoc, deleteDoc,
+    getFirestore, collection, getDocs, doc,setDoc 
 } from 'firebase/firestore'
 
 export const app = initializeApp(firebaseConfig);

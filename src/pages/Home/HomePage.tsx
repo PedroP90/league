@@ -1,41 +1,9 @@
-import { Box, Card, CardContent, CardHeader, Divider, Grid, TextField, ThemeProvider, Typography, createTheme, styled } from '@mui/material'
-import React, { ChangeEvent, useEffect, useState } from 'react'
-import ICategoria from '../../firebase/config/interface/ICategoria';
-import { getCategorias } from '../../firebase/FBcategoria';
+import { Box, ThemeProvider, Typography, createTheme} from '@mui/material'
 import { Homecards } from './Cards/Homecards';
 
 
-const theme = createTheme();
 
-const CssTextField = styled(TextField)({
-  //cambia el foco, es decir el nombre que sale arriba al pinchar
-  '& label.Mui-focused': {
-    color: '#2F88FF',
-  },
-  '& .MuiInput-underline:after': {
-    borderBottomColor: 'green',
-  },
-  //cambia el borde permanente sin foco
-  '& .MuiOutlinedInput-root': {
-    '& fieldset': {
-      borderColor: 'white',
-    },
-    //cambia el borde al pasar el ratón
-    '&:hover fieldset': {
-      borderColor: '#2F88FF',
-    },
-    //cambia el borde al pinchar
-    '&.Mui-focused fieldset': {
-      borderColor: '#2F88FF',
-    },
-    //cambia el color del texto al escribir
-    '&.css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root':{
-      color: 'white'
-    },
-    
-  },
-  
-});
+const theme = createTheme();
 
 theme.typography.h2 = {
   fontSize: '1.5rem',
@@ -49,52 +17,6 @@ theme.typography.h2 = {
 
 export const HomePage = () => {
 
-  //setear los hooks useState
-  const [ search, setSearch] = useState("")
-  const [categorias, setCategorias] = useState<ICategoria[]>([]);
-
-  //función para traer los datos de la API
-  useEffect(() => {
-      getCategorias()
-      .then (res => {
-        console.log(res)
-        setCategorias(res) 
-      })
-    }, [])
-
-  //función de búsqueda, con esto recogemos lo que se tipea
-  const searcher: (e: ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => void = (e) => {
-      setSearch(e.target.value);
-      console.log(e.target.value);
-    
-    };
-  //método de filtrado #1
-  // let results = []
-  // if(!search)
-  // {
-  //     results = categorias
-  // }else{
-  //     results = categorias.filter( (dato) => 
-  //     dato.name.toLowerCase().includes(search.toLocaleLowerCase())
-  //     )
-  // }
-
-  //método de filtrado #2
-    const results = !search ? categorias : categorias.filter((dato)=> 
-    dato.name.toString().toLowerCase().includes(search.toLowerCase()) )
-    
-  //renderizamos la vista
-
-    
-  //getCategorias()
-  //El useEffect hace que hasta que no lleguen los datos de las categorías no manda el return, el "html"
-  useEffect(() => {
-    getCategorias()
-    .then (res => {
-      console.log(res)
-      setCategorias(res) 
-    })
-  }, [])
 
   return (
     <>
@@ -111,7 +33,8 @@ export const HomePage = () => {
           >Campeones de League of Legends</Typography>
         </ThemeProvider>
       </Box>
-      <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
+      <Homecards/>
+      {/* <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'center'}}>
             <CssTextField
                 value={search}
                 onChange={searcher}
@@ -143,8 +66,8 @@ export const HomePage = () => {
               </CardContent>
              </Card>
             </Grid>  
-          </Grid>
-          {/* <Homecards/> */}
+          </Grid> */}
+          
     </>
   )
 }

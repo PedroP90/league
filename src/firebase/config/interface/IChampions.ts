@@ -4,6 +4,7 @@ export interface IChampion {
     codigo?:     string;
     id:          string;
     key:         string;
+    posId:       string;
     name:        string;
     title:       string;
     tags:        Tag[] | Tag;

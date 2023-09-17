@@ -1,33 +1,44 @@
-import React from 'react'
 import { IChampion } from './config/interface/IChampions'
 import champions from './config/data/champions.json'
 import { nanoid } from 'nanoid'
 import { firebaseConfig } from './config/firebaseConfig'
-import { useFirestore } from 'reactfire'
 import { initializeApp } from 'firebase/app'
 import { 
-    getFirestore, collection, getDocs,
-    addDoc, doc, getDoc, query, where, setDoc, deleteDoc,
-} from 'firebase/firestore'
+    getFirestore, collection, getDocs, doc, setDoc, deleteDoc} from 'firebase/firestore'
 
 
 export const app = initializeApp(firebaseConfig);
 export const db = getFirestore();
 
 
+//carga masiva de datos antigua
+// export const cargar = async ( ) => {
+//     try{
+//         console.log('carga de datos...');
+//         champions.map(async (champion) => {
+//             const codigo = nanoid(20);
+//             const docRef = doc(db, "Campeones", codigo);
+//             await setDoc(docRef, { codigo: codigo, ...champion });
+//             window.location.reload();
+//         })
+//     }catch(error) {
+//         console.log(error)
+//     }
+// }
+
 //carga masiva de datos
 export const cargar = async ( ) => {
-    try{
-        console.log('carga de datos...');
-        champions.map(async (champion) => {
-            const codigo = nanoid(20);
-            const docRef = doc(db, "Campeones", codigo);
-            await setDoc(docRef, { codigo: codigo, ...champion });
-            window.location.reload();
-        })
-    }catch(error) {
-        console.log(error)
-    }
+  try{
+      console.log('carga de datos...');
+      for (const champion of champions) {
+          const codigo = nanoid(20);
+          const docRef = doc(db, "Campeones", codigo);
+          await setDoc(docRef, champion);
+      }
+      window.location.reload();
+  }catch(error) {
+      console.log(error)
+  }
 }
 
 //añadir un nuevo campeón
